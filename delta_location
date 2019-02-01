@@ -18,8 +18,8 @@
         "linesOfBusiness": [
             {
                 "lineOfBusinessSystemId": "107781",
-                "lineOfBusinessCode": "101",
-                "brandCode": "101",
+                "lineOfBusinessRefCode": "101",
+                "storeFrontBrandCode": "101",
                 "isDealer": "false",
                 "isLicensee": "false",
                 "isPrimaryLineOfBusiness": "true",
@@ -278,8 +278,8 @@
             },
             {
                 "lineOfBusinessSystemId": "109605",
-                "lineOfBusinessCode": "109",
-                "brandCode": "116",
+                "lineOfBusinessRefCode": "109",
+                "storeFrontBrandCode": "116",
                 "isDealer": "false",
                 "isLicensee": "false",
                 "isPrimaryLineOfBusiness": "false",
@@ -341,8 +341,8 @@
             },
             {
                 "lineOfBusinessSystemId": "111260",
-                "lineOfBusinessCode": "133",
-                "brandCode": "121",
+                "lineOfBusinessRefCode": "133",
+                "storeFrontBrandCode": "121",
                 "isDealer": "false",
                 "isLicensee": "false",
                 "isPrimaryLineOfBusiness": "false",
@@ -483,8 +483,8 @@
         "linesOfBusiness": [
             {
                 "lineOfBusinessSystemId": "107168",
-                "lineOfBusinessCode": "101",
-                "brandCode": "222",
+                "lineOfBusinessRefCode": "101",
+                "storeFrontBrandCode": "222",
                 "isDealer": "true",
                 "isLicensee": "false",
                 "isPrimaryLineOfBusiness": "true",
@@ -676,8 +676,8 @@
             },
             {
                 "lineOfBusinessSystemId": "109950",
-                "lineOfBusinessCode": "109",
-                "brandCode": "117",
+                "lineOfBusinessRefCode": "109",
+                "storeFrontBrandCode": "117",
                 "isDealer": "false",
                 "isLicensee": "false",
                 "isPrimaryLineOfBusiness": "false",
@@ -798,8 +798,8 @@
         "linesOfBusiness": [
             {
                 "lineOfBusinessSystemId": "111632",
-                "lineOfBusinessCode": "101",
-                "brandCode": "101",
+                "lineOfBusinessRefCode": "101",
+                "storeFrontBrandCode": "101",
                 "isDealer": "false",
                 "isLicensee": "false",
                 "isPrimaryLineOfBusiness": "true",
@@ -1082,8 +1082,8 @@
         "linesOfBusiness": [
             {
                 "lineOfBusinessSystemId": "111631",
-                "lineOfBusinessCode": "101",
-                "brandCode": "101",
+                "lineOfBusinessRefCode": "101",
+                "storeFrontBrandCode": "101",
                 "isDealer": "false",
                 "isLicensee": "false",
                 "isPrimaryLineOfBusiness": "true",
@@ -1458,8 +1458,8 @@
         "linesOfBusiness": [
             {
                 "lineOfBusinessSystemId": "111633",
-                "lineOfBusinessCode": "101",
-                "brandCode": "101",
+                "lineOfBusinessRefCode": "101",
+                "storeFrontBrandCode": "101",
                 "isDealer": "false",
                 "isLicensee": "false",
                 "isPrimaryLineOfBusiness": "true",
