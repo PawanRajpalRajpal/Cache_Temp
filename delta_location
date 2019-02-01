@@ -1,0 +1,1761 @@
+[
+    {
+        "statusCode": "102",
+        "siteSystemId": "100625",
+        "locationId": "1",
+        "status": "Open",
+        "statusDetail": "Open",
+        "address1": "5868 Nittany Valley Drive",
+        "address2": "Apt 100",
+        "city": "Mill Hall",
+        "state": "PA",
+        "postalCode": "17751",
+        "country": "United States",
+        "interstate": "I-80, Exit 173",
+        "unitsOfMeasure": "US",
+        "currency": "USD",
+        "timeZone": "UTC -5:0",
+        "linesOfBusiness": [
+            {
+                "lineOfBusinessSystemId": "107781",
+                "lineOfBusinessCode": "101",
+                "brandCode": "101",
+                "isDealer": "false",
+                "isLicensee": "false",
+                "isPrimaryLineOfBusiness": "true",
+                "isPublicFacing": "true",
+                "status": "Open",
+                "openDate": "2006-12-04",
+                "temporaryCloseDate": null,
+                "reopenDate": null,
+                "closeDate": null,
+                "address1": "5868 Nittany Valley Drive",
+                "address2": "Apt 100",
+                "city": "Mill Hall",
+                "state": "PA",
+                "postalCode": "17751",
+                "country": "United States",
+                "latitude": "41.033959",
+                "longitude": "-77.515672",
+                "phone": "(570) 726-7618",
+                "fax": "(570) 726-5092",
+                "is24Hours": "true",
+                "offerings": [
+                    {
+                        "offeringSystemID": "3106",
+                        "offeringCode": "227",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "6172",
+                        "offeringCode": "218",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "6352",
+                        "offeringCode": "244",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "6353",
+                        "offeringCode": "265",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "6354",
+                        "offeringCode": "238",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "6355",
+                        "offeringCode": "211",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "17809",
+                        "offeringCode": "206",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "23069",
+                                "description": "Quantity",
+                                "value": "1"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "40986",
+                        "offeringCode": "243",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "65000",
+                        "offeringCode": "296",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "155000",
+                                "description": "Quantity",
+                                "value": "8"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "65737",
+                        "offeringCode": "297",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "155737",
+                                "description": "Quantity",
+                                "value": "8"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "66770",
+                        "offeringCode": "322",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "158252",
+                                "description": "Quantity",
+                                "value": "5"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "68391",
+                        "offeringCode": "318",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "156770",
+                                "description": "Serial Number",
+                                "value": "892"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "70607",
+                        "offeringCode": "311",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "71668",
+                        "offeringCode": "314",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "72321",
+                        "offeringCode": "315",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "73176",
+                        "offeringCode": "323",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "86875",
+                        "offeringCode": "305",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "168254",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "86886",
+                        "offeringCode": "309",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "168265",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "86887",
+                        "offeringCode": "310",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "168266",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "86889",
+                        "offeringCode": "334",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "168268",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "86892",
+                        "offeringCode": "337",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "168271",
+                                "description": "Quantity",
+                                "value": "5"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "86893",
+                        "offeringCode": "333",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "168272",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "115000",
+                        "offeringCode": "348",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "115001",
+                        "offeringCode": "347",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "115002",
+                        "offeringCode": "346",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "115003",
+                        "offeringCode": "345",
+                        "offeringAttributes": []
+                    }
+                ],
+                "hoursOfOperation": [
+                    {
+                        "dayOfTheWeek": "Sunday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Monday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Tuesday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Wednesday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Thursday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Friday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Saturday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    }
+                ]
+            },
+            {
+                "lineOfBusinessSystemId": "109605",
+                "lineOfBusinessCode": "109",
+                "brandCode": "116",
+                "isDealer": "false",
+                "isLicensee": "false",
+                "isPrimaryLineOfBusiness": "false",
+                "isPublicFacing": "true",
+                "status": "Open",
+                "openDate": "2006-12-04",
+                "temporaryCloseDate": null,
+                "reopenDate": null,
+                "closeDate": null,
+                "address1": "5868 Nittany Valley Drive",
+                "address2": "Apt 100",
+                "city": "Mill Hall",
+                "state": "PA",
+                "postalCode": "17751",
+                "country": "United States",
+                "latitude": null,
+                "longitude": null,
+                "phone": "(570) 726-4638",
+                "fax": "(570) 726-5092",
+                "is24Hours": "true",
+                "offerings": [],
+                "hoursOfOperation": [
+                    {
+                        "dayOfTheWeek": "Sunday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Monday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Tuesday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Wednesday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Thursday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Friday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Saturday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    }
+                ]
+            },
+            {
+                "lineOfBusinessSystemId": "111260",
+                "lineOfBusinessCode": "133",
+                "brandCode": "121",
+                "isDealer": "false",
+                "isLicensee": "false",
+                "isPrimaryLineOfBusiness": "false",
+                "isPublicFacing": "true",
+                "status": "Open",
+                "openDate": "2015-03-05",
+                "temporaryCloseDate": null,
+                "reopenDate": null,
+                "closeDate": null,
+                "address1": "5868 Nittany Valley Drive",
+                "address2": "Apt 100",
+                "city": "Mill Hall",
+                "state": "PA",
+                "postalCode": "17751",
+                "country": "United States",
+                "latitude": null,
+                "longitude": null,
+                "phone": "(570) 726-7618",
+                "fax": "(570) 726-5092",
+                "is24Hours": "false",
+                "offerings": [],
+                "hoursOfOperation": [
+                    {
+                        "dayOfTheWeek": "Sunday",
+                        "from": "05:00 AM",
+                        "to": "06:00 PM"
+                    },
+                    {
+                        "dayOfTheWeek": "Monday",
+                        "from": "05:00 AM",
+                        "to": "06:00 PM"
+                    },
+                    {
+                        "dayOfTheWeek": "Tuesday",
+                        "from": "05:00 AM",
+                        "to": "06:00 PM"
+                    },
+                    {
+                        "dayOfTheWeek": "Wednesday",
+                        "from": "05:00 AM",
+                        "to": "06:00 PM"
+                    },
+                    {
+                        "dayOfTheWeek": "Thursday",
+                        "from": "05:00 AM",
+                        "to": "06:00 PM"
+                    },
+                    {
+                        "dayOfTheWeek": "Friday",
+                        "from": "05:00 AM",
+                        "to": "06:00 PM"
+                    },
+                    {
+                        "dayOfTheWeek": "Saturday",
+                        "from": "05:00 AM",
+                        "to": "06:00 PM"
+                    }
+                ]
+            }
+        ],
+        "geoCodes": [
+            {
+                "sequence": "0",
+                "latitude": "41.03549",
+                "longitude": "-77.51731"
+            },
+            {
+                "sequence": "1",
+                "latitude": "41.03588",
+                "longitude": "-77.51478"
+            },
+            {
+                "sequence": "2",
+                "latitude": "41.03478",
+                "longitude": "-77.51338"
+            },
+            {
+                "sequence": "3",
+                "latitude": "41.0332",
+                "longitude": "-77.51383"
+            },
+            {
+                "sequence": "4",
+                "latitude": "41.03244",
+                "longitude": "-77.51557"
+            },
+            {
+                "sequence": "5",
+                "latitude": "41.03307",
+                "longitude": "-77.51783"
+            },
+            {
+                "sequence": "6",
+                "latitude": "41.0344",
+                "longitude": "-77.51812"
+            },
+            {
+                "sequence": null,
+                "latitude": "41.0339",
+                "longitude": "-77.5156"
+            },
+            {
+                "sequence": null,
+                "latitude": "41.0339",
+                "longitude": "-77.5156"
+            }
+        ],
+        "fuelCodes": [
+            "7991691001",
+            "7991691003",
+            "7991691004",
+            "7991691006",
+            "7991691011",
+            "7991691194",
+            "7991691250",
+            "7991691256"
+        ],
+        "rvFriendly": true,
+        "hasDieselLanes": false,
+        "overallLastUpdatedTime": "2019-01-30T01:30:53Z"
+    },
+    {
+        "statusCode": "102",
+        "siteSystemId": "100002",
+        "locationId": "530",
+        "status": "Open",
+        "statusDetail": "Open",
+        "address1": "2705 12th Street -QA",
+        "address2": "Apt 100 -QA",
+        "city": "Mendota -QA",
+        "state": "IL",
+        "postalCode": "61342",
+        "country": "United States",
+        "interstate": "I-39, Exit 72",
+        "unitsOfMeasure": "US",
+        "currency": "USD",
+        "timeZone": "UTC -6:0",
+        "linesOfBusiness": [
+            {
+                "lineOfBusinessSystemId": "107168",
+                "lineOfBusinessCode": "101",
+                "brandCode": "222",
+                "isDealer": "true",
+                "isLicensee": "false",
+                "isPrimaryLineOfBusiness": "true",
+                "isPublicFacing": "true",
+                "status": "Open",
+                "openDate": "2009-01-26",
+                "temporaryCloseDate": null,
+                "reopenDate": null,
+                "closeDate": null,
+                "address1": "2705 12Th Street",
+                "address2": "Apt 100 -QA",
+                "city": "Mendota",
+                "state": "IL",
+                "postalCode": "61342",
+                "country": "United States",
+                "latitude": "41.553108",
+                "longitude": "-89.066835",
+                "phone": "(815) 315-4210",
+                "fax": "(847) 232-1184",
+                "is24Hours": "true",
+                "offerings": [
+                    {
+                        "offeringSystemID": "2753",
+                        "offeringCode": "227",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "9155",
+                        "offeringCode": "211",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "17465",
+                        "offeringCode": "206",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "22725",
+                                "description": "Quantity",
+                                "value": "1"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "41328",
+                        "offeringCode": "243",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "65345",
+                        "offeringCode": "296",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "155345",
+                                "description": "Quantity",
+                                "value": "3"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "66105",
+                        "offeringCode": "297",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "156105",
+                                "description": "Quantity",
+                                "value": "6"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "67128",
+                        "offeringCode": "322",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "158610",
+                                "description": "Quantity",
+                                "value": "3"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "68749",
+                        "offeringCode": "318",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "157128",
+                                "description": "Serial Number",
+                                "value": "1380"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "72004",
+                        "offeringCode": "314",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "72656",
+                        "offeringCode": "315",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "73533",
+                        "offeringCode": "323",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "117075",
+                        "offeringCode": "309",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185473",
+                                "description": "Quantity",
+                                "value": "1"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "117077",
+                        "offeringCode": "337",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185475",
+                                "description": "Quantity",
+                                "value": "3"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "117080",
+                        "offeringCode": "310",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185478",
+                                "description": "Quantity",
+                                "value": "1"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "117081",
+                        "offeringCode": "333",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185479",
+                                "description": "Quantity",
+                                "value": "1"
+                            }
+                        ]
+                    }
+                ],
+                "hoursOfOperation": [
+                    {
+                        "dayOfTheWeek": "Sunday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Monday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Tuesday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Wednesday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Thursday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Friday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    },
+                    {
+                        "dayOfTheWeek": "Saturday",
+                        "from": "12:00 AM",
+                        "to": "12:00 AM"
+                    }
+                ]
+            },
+            {
+                "lineOfBusinessSystemId": "109950",
+                "lineOfBusinessCode": "109",
+                "brandCode": "117",
+                "isDealer": "false",
+                "isLicensee": "false",
+                "isPrimaryLineOfBusiness": "false",
+                "isPublicFacing": "true",
+                "status": "Closed",
+                "openDate": "2010-07-01",
+                "temporaryCloseDate": null,
+                "reopenDate": null,
+                "closeDate": "2018-12-11",
+                "address1": "2705 12Th Street",
+                "address2": "Apt 100 -QA",
+                "city": "Mendota",
+                "state": "IL",
+                "postalCode": "61342",
+                "country": "United States",
+                "latitude": null,
+                "longitude": null,
+                "phone": null,
+                "fax": null,
+                "is24Hours": "false",
+                "offerings": [],
+                "hoursOfOperation": []
+            }
+        ],
+        "geoCodes": [
+            {
+                "sequence": "0",
+                "latitude": "41.55226",
+                "longitude": "-89.06567"
+            },
+            {
+                "sequence": "1",
+                "latitude": "41.5531",
+                "longitude": "-89.06632"
+            },
+            {
+                "sequence": "2",
+                "latitude": "41.55371",
+                "longitude": "-89.06645"
+            },
+            {
+                "sequence": "3",
+                "latitude": "41.55432",
+                "longitude": "-89.06645"
+            },
+            {
+                "sequence": "4",
+                "latitude": "41.55431",
+                "longitude": "-89.06713"
+            },
+            {
+                "sequence": "5",
+                "latitude": "41.55222",
+                "longitude": "-89.06715"
+            },
+            {
+                "sequence": null,
+                "latitude": "41.5531",
+                "longitude": "-89.0668"
+            },
+            {
+                "sequence": null,
+                "latitude": "41.5531",
+                "longitude": "-89.0668"
+            }
+        ],
+        "fuelCodes": [
+            "7991691001",
+            "7991691003",
+            "7991691004",
+            "7991691011",
+            "7991691250",
+            "7991691256"
+        ],
+        "rvFriendly": true,
+        "hasDieselLanes": false,
+        "overallLastUpdatedTime": "2019-01-29T11:45:43Z"
+    },
+    {
+        "statusCode": "102",
+        "siteSystemId": "101881",
+        "locationId": "9007",
+        "status": "Open",
+        "statusDetail": "Open",
+        "address1": "demo",
+        "address2": "demo",
+        "city": "demo",
+        "state": "DE",
+        "postalCode": "12345",
+        "country": "United States",
+        "interstate": null,
+        "unitsOfMeasure": "US",
+        "currency": "USD",
+        "timeZone": "UTC -6:0",
+        "linesOfBusiness": [],
+        "geoCodes": [],
+        "fuelCodes": null,
+        "rvFriendly": false,
+        "hasDieselLanes": false,
+        "overallLastUpdatedTime": "2019-01-30T03:19:10Z"
+    },
+    {
+        "statusCode": "102",
+        "siteSystemId": "101884",
+        "locationId": "9025",
+        "status": "Open",
+        "statusDetail": "Open",
+        "address1": "3630 Peachtree Rd NE",
+        "address2": null,
+        "city": "Atlanta",
+        "state": "GA",
+        "postalCode": "30319",
+        "country": "United States",
+        "interstate": null,
+        "unitsOfMeasure": "US",
+        "currency": "USD",
+        "timeZone": "UTC -5:0",
+        "linesOfBusiness": [
+            {
+                "lineOfBusinessSystemId": "111632",
+                "lineOfBusinessCode": "101",
+                "brandCode": "101",
+                "isDealer": "false",
+                "isLicensee": "false",
+                "isPrimaryLineOfBusiness": "true",
+                "isPublicFacing": "true",
+                "status": "Open",
+                "openDate": "1977-12-09",
+                "temporaryCloseDate": null,
+                "reopenDate": null,
+                "closeDate": null,
+                "address1": "3630 Peachtree Rd NE",
+                "address2": null,
+                "city": "Atlanta",
+                "state": "GA",
+                "postalCode": "30319",
+                "country": "United States",
+                "latitude": "35.999273",
+                "longitude": "-83.777618",
+                "phone": "(865) 544-1067",
+                "fax": "(865) 544-1138",
+                "is24Hours": "true",
+                "offerings": [
+                    {
+                        "offeringSystemID": "104268",
+                        "offeringCode": "299",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104269",
+                        "offeringCode": "348",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104270",
+                        "offeringCode": "295",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104272",
+                        "offeringCode": "300",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104273",
+                        "offeringCode": "289",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104274",
+                        "offeringCode": "288",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104275",
+                        "offeringCode": "211",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104277",
+                        "offeringCode": "218",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104279",
+                        "offeringCode": "221",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104280",
+                        "offeringCode": "345",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104281",
+                        "offeringCode": "344",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104285",
+                        "offeringCode": "311",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104287",
+                        "offeringCode": "227",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104288",
+                        "offeringCode": "346",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104289",
+                        "offeringCode": "230",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104291",
+                        "offeringCode": "314",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104292",
+                        "offeringCode": "315",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104293",
+                        "offeringCode": "301",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104295",
+                        "offeringCode": "238",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104296",
+                        "offeringCode": "243",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104297",
+                        "offeringCode": "347",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104298",
+                        "offeringCode": "244",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104299",
+                        "offeringCode": "317",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104306",
+                        "offeringCode": "290",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104307",
+                        "offeringCode": "262",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104309",
+                        "offeringCode": "265",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104310",
+                        "offeringCode": "323",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104311",
+                        "offeringCode": "324",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104426",
+                        "offeringCode": "305",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185423",
+                                "description": "Quantity",
+                                "value": "12"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104437",
+                        "offeringCode": "309",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185434",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104438",
+                        "offeringCode": "310",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185435",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104440",
+                        "offeringCode": "334",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185437",
+                                "description": "Quantity",
+                                "value": "134"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104443",
+                        "offeringCode": "337",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185440",
+                                "description": "Quantity",
+                                "value": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104444",
+                        "offeringCode": "333",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185441",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    }
+                ],
+                "hoursOfOperation": []
+            }
+        ],
+        "geoCodes": [
+            {
+                "sequence": "0",
+                "latitude": "33.855691304",
+                "longitude": "-84.358646532"
+            },
+            {
+                "sequence": "1",
+                "latitude": "33.854675593",
+                "longitude": "-84.360384603"
+            },
+            {
+                "sequence": "2",
+                "latitude": "33.852982715",
+                "longitude": "-84.360127111"
+            },
+            {
+                "sequence": "3",
+                "latitude": "33.853000535",
+                "longitude": "-84.356586595"
+            },
+            {
+                "sequence": "4",
+                "latitude": "33.855406193",
+                "longitude": "-84.356007238"
+            }
+        ],
+        "fuelCodes": null,
+        "rvFriendly": true,
+        "hasDieselLanes": false,
+        "overallLastUpdatedTime": "2019-01-29T12:08:59Z"
+    },
+    {
+        "statusCode": "102",
+        "siteSystemId": "101883",
+        "locationId": "9031",
+        "status": "Open",
+        "statusDetail": "Open",
+        "address1": "5508 Lonas Dr",
+        "address2": null,
+        "city": "Knoxville",
+        "state": "TN",
+        "postalCode": "37909",
+        "country": "United States",
+        "interstate": null,
+        "unitsOfMeasure": "US",
+        "currency": "USD",
+        "timeZone": "UTC -5:0",
+        "linesOfBusiness": [
+            {
+                "lineOfBusinessSystemId": "111631",
+                "lineOfBusinessCode": "101",
+                "brandCode": "101",
+                "isDealer": "false",
+                "isLicensee": "false",
+                "isPrimaryLineOfBusiness": "true",
+                "isPublicFacing": "true",
+                "status": "Open",
+                "openDate": "1999-12-09",
+                "temporaryCloseDate": null,
+                "reopenDate": null,
+                "closeDate": null,
+                "address1": "5508 Lonas Dr",
+                "address2": null,
+                "city": "Knoxville",
+                "state": "TN",
+                "postalCode": "37909",
+                "country": "United States",
+                "latitude": "35.999273",
+                "longitude": "-83.777618",
+                "phone": "(865) 544-1067",
+                "fax": "(865) 544-1138",
+                "is24Hours": "false",
+                "offerings": [
+                    {
+                        "offeringSystemID": "104220",
+                        "offeringCode": "206",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185368",
+                                "description": "Quantity",
+                                "value": "7"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104222",
+                        "offeringCode": "299",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104223",
+                        "offeringCode": "348",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104224",
+                        "offeringCode": "295",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104225",
+                        "offeringCode": "318",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185370",
+                                "description": "Serial Number",
+                                "value": "7"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104226",
+                        "offeringCode": "300",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104227",
+                        "offeringCode": "289",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104228",
+                        "offeringCode": "288",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104229",
+                        "offeringCode": "211",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104231",
+                        "offeringCode": "218",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104233",
+                        "offeringCode": "221",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104234",
+                        "offeringCode": "345",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104235",
+                        "offeringCode": "344",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104236",
+                        "offeringCode": "296",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185371",
+                                "description": "Quantity",
+                                "value": "4"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104237",
+                        "offeringCode": "297",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185372",
+                                "description": "Quantity",
+                                "value": "1"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104238",
+                        "offeringCode": "298",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185373",
+                                "description": "Quantity",
+                                "value": "5"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104239",
+                        "offeringCode": "311",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104241",
+                        "offeringCode": "227",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104242",
+                        "offeringCode": "346",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104243",
+                        "offeringCode": "230",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104245",
+                        "offeringCode": "314",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104246",
+                        "offeringCode": "315",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104247",
+                        "offeringCode": "301",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104249",
+                        "offeringCode": "238",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104250",
+                        "offeringCode": "243",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104251",
+                        "offeringCode": "347",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104252",
+                        "offeringCode": "244",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104253",
+                        "offeringCode": "317",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104255",
+                        "offeringCode": "322",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185374",
+                                "description": "Quantity",
+                                "value": "7"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104260",
+                        "offeringCode": "290",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104261",
+                        "offeringCode": "262",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104263",
+                        "offeringCode": "265",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104264",
+                        "offeringCode": "323",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104265",
+                        "offeringCode": "324",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104405",
+                        "offeringCode": "305",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185402",
+                                "description": "Quantity",
+                                "value": "12"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104416",
+                        "offeringCode": "309",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185413",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104417",
+                        "offeringCode": "310",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185414",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104419",
+                        "offeringCode": "334",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185416",
+                                "description": "Quantity",
+                                "value": "134"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104422",
+                        "offeringCode": "337",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185419",
+                                "description": "Quantity",
+                                "value": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104423",
+                        "offeringCode": "333",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185420",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    }
+                ],
+                "hoursOfOperation": [
+                    {
+                        "dayOfTheWeek": "Sunday",
+                        "from": "06:00 AM",
+                        "to": "06:00 PM"
+                    }
+                ]
+            }
+        ],
+        "geoCodes": [
+            {
+                "sequence": "0",
+                "latitude": "35.945380043",
+                "longitude": "-84.003387255"
+            },
+            {
+                "sequence": "1",
+                "latitude": "35.944528828",
+                "longitude": "-84.005275530"
+            },
+            {
+                "sequence": "2",
+                "latitude": "35.943069581",
+                "longitude": "-84.003752036"
+            },
+            {
+                "sequence": "3",
+                "latitude": "35.943399651",
+                "longitude": "-84.001563353"
+            },
+            {
+                "sequence": "4",
+                "latitude": "35.945171583",
+                "longitude": "-84.001541895"
+            },
+            {
+                "sequence": "0",
+                "latitude": "36.123880938",
+                "longitude": "-84.640457031"
+            },
+            {
+                "sequence": "1",
+                "latitude": "36.298929585",
+                "longitude": "-85.014102188"
+            },
+            {
+                "sequence": "0",
+                "latitude": "35.943986284",
+                "longitude": "-84.003254023"
+            },
+            {
+                "sequence": "1",
+                "latitude": "35.943967819",
+                "longitude": "-84.003365364"
+            }
+        ],
+        "fuelCodes": null,
+        "rvFriendly": true,
+        "hasDieselLanes": false,
+        "overallLastUpdatedTime": "2019-01-29T12:08:58Z"
+    },
+    {
+        "statusCode": "102",
+        "siteSystemId": "101885",
+        "locationId": "9195",
+        "status": "Open",
+        "statusDetail": "Open",
+        "address1": "6100 Tennyson Pkwy #150",
+        "address2": null,
+        "city": "Plano",
+        "state": "TX",
+        "postalCode": "75024",
+        "country": "United States",
+        "interstate": null,
+        "unitsOfMeasure": "US",
+        "currency": "USD",
+        "timeZone": null,
+        "linesOfBusiness": [
+            {
+                "lineOfBusinessSystemId": "111633",
+                "lineOfBusinessCode": "101",
+                "brandCode": "101",
+                "isDealer": "false",
+                "isLicensee": "false",
+                "isPrimaryLineOfBusiness": "true",
+                "isPublicFacing": "true",
+                "status": "Open",
+                "openDate": "1977-12-09",
+                "temporaryCloseDate": null,
+                "reopenDate": null,
+                "closeDate": null,
+                "address1": "6100 Tennyson Pkwy #150",
+                "address2": null,
+                "city": "Plano",
+                "state": "TX",
+                "postalCode": "75024",
+                "country": "United States",
+                "latitude": "35.999273",
+                "longitude": "-83.777618",
+                "phone": "(865) 544-1067",
+                "fax": "(865) 544-1138",
+                "is24Hours": "true",
+                "offerings": [
+                    {
+                        "offeringSystemID": "104358",
+                        "offeringCode": "206",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104360",
+                        "offeringCode": "299",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104361",
+                        "offeringCode": "348",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104362",
+                        "offeringCode": "295",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104363",
+                        "offeringCode": "318",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104364",
+                        "offeringCode": "300",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104365",
+                        "offeringCode": "289",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104366",
+                        "offeringCode": "288",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104367",
+                        "offeringCode": "211",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104369",
+                        "offeringCode": "218",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104371",
+                        "offeringCode": "221",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104372",
+                        "offeringCode": "345",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104373",
+                        "offeringCode": "344",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104374",
+                        "offeringCode": "296",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104375",
+                        "offeringCode": "297",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104376",
+                        "offeringCode": "298",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104377",
+                        "offeringCode": "311",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104379",
+                        "offeringCode": "227",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104380",
+                        "offeringCode": "346",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104381",
+                        "offeringCode": "230",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104383",
+                        "offeringCode": "314",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104384",
+                        "offeringCode": "315",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104385",
+                        "offeringCode": "301",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104387",
+                        "offeringCode": "238",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104388",
+                        "offeringCode": "243",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104389",
+                        "offeringCode": "347",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104390",
+                        "offeringCode": "244",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104391",
+                        "offeringCode": "317",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104393",
+                        "offeringCode": "322",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104398",
+                        "offeringCode": "290",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104399",
+                        "offeringCode": "262",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104401",
+                        "offeringCode": "265",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104402",
+                        "offeringCode": "323",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104403",
+                        "offeringCode": "324",
+                        "offeringAttributes": []
+                    },
+                    {
+                        "offeringSystemID": "104447",
+                        "offeringCode": "305",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185444",
+                                "description": "Quantity",
+                                "value": "12"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104458",
+                        "offeringCode": "309",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185455",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104459",
+                        "offeringCode": "310",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185456",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104461",
+                        "offeringCode": "334",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185458",
+                                "description": "Quantity",
+                                "value": "134"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104464",
+                        "offeringCode": "337",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185461",
+                                "description": "Quantity",
+                                "value": "107"
+                            }
+                        ]
+                    },
+                    {
+                        "offeringSystemID": "104465",
+                        "offeringCode": "333",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185462",
+                                "description": "Quantity",
+                                "value": "0"
+                            }
+                        ]
+                    }
+                ],
+                "hoursOfOperation": []
+            }
+        ],
+        "geoCodes": [
+            {
+                "sequence": "0",
+                "latitude": "33.071940473",
+                "longitude": "-96.830460039"
+            },
+            {
+                "sequence": "1",
+                "latitude": "33.070717741",
+                "longitude": "-96.831532923"
+            },
+            {
+                "sequence": "2",
+                "latitude": "33.069530955",
+                "longitude": "-96.828979460"
+            },
+            {
+                "sequence": "3",
+                "latitude": "33.071311128",
+                "longitude": "-96.827949492"
+            },
+            {
+                "sequence": "4",
+                "latitude": "33.072210191",
+                "longitude": "-96.829301325"
+            },
+            {
+                "sequence": "0",
+                "latitude": "33.070763797",
+                "longitude": "-96.829793048"
+            }
+        ],
+        "fuelCodes": null,
+        "rvFriendly": true,
+        "hasDieselLanes": false,
+        "overallLastUpdatedTime": "2019-01-30T20:24:06Z"
+    }
+]
