@@ -1286,6 +1286,17 @@
                             }
                         ]
                     },
+                     {
+                        "offeringSystemID": "104255",
+                        "offeringCode": "1004",
+                        "offeringAttributes": [
+                            {
+                                "offeringAttributeSystemID": "185374",
+                                "description": "Quantity",
+                                "value": "7"
+                            }
+                        ]
+                    },
                     {
                         "offeringSystemID": "104260",
                         "offeringCode": "290",
@@ -1445,7 +1456,7 @@
         "locationId": "9195",
         "status": "Open",
         "statusDetail": "Open",
-        "address1": "hyryrhhrhrhrrh",
+        "address1": "New Location Address For Testing",
         "address2": null,
         "city": "Plano",
         "state": "TX",
