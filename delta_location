@@ -1480,11 +1480,7 @@
                 "temporaryCloseDate": null,
                 "reopenDate": null,
                 "closeDate": null,
-                "address1": "6100 Tennyson Pkwy #150",
-                "address2": null,
-                "city": "Plano",
-                "state": "TX",
-                "postalCode": "75024",
+                "address1": "gfgffdfd Test Address
                 "country": "United States",
                 "latitude": "35.999273",
                 "longitude": "-83.777618",
@@ -1719,7 +1715,7 @@
                     },
                     {
                         "offeringSystemID": "104465",
-                        "offeringCode": "333",
+                        "offeringCode": "228",
                         "offeringAttributes": [
                             {
                                 "offeringAttributeSystemID": "185462",
