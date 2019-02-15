@@ -1,0 +1,647 @@
+{
+
+	"siteSystemId": "100323",
+	"locationId": "9025",
+	"status": "Open",
+	"statusDetail": null,
+	"address1": "3630 Peachtree Rd NE",
+	"address2": null,
+	"city": "Atlanta",
+	"state": "GA",
+	"postalCode": "30326",
+	"country": "United States",
+	"interstate": "I-40, Exit 398",
+	"unitsOfMeasure": "US",
+	"currency": "USD",
+	"timeZone": "UTC -5:0",
+	"linesOfBusiness": [{
+		"lineOfBusinessSystemId": "109028",
+		"lineOfBusinessCode": "101",
+		"brandCode": "101",
+		"isDealer": false,
+		"isLicensee": false,
+		"isPrimaryLineOfBusiness": true,
+		"status": "Open",
+		"openDate": "1977-12-09",
+		"temporaryCloseDate": null,
+		"reopenDate": null,
+		"closeDate": null,
+		"address1": "3630 Peachtree Rd NE",
+		"address2": null,
+		"city": "Atlanta",
+		"state": "GA",
+		"postalCode": "37914",
+		"country": "United States",
+		"latitude": "33.854604",
+		"longitude": "-84.358690",
+		"phone": "(865) 544-1067",
+		"fax": "(865) 544-1138",
+		"is24Hours": true,
+		"offerings": [{
+			"offeringSystemID": "1678",
+			"offeringCode": "218",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "2631",
+			"offeringCode": "223",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "3287",
+				"description": "Bulk DEF Lanes",
+				"value": "9"
+			}, {
+				"offeringAttributeSystemID": "4003",
+				"description": "Diesel Lanes",
+				"value": "9"
+			}, {
+				"offeringAttributeSystemID": "16405",
+				"description": "Ultra Low Sulphur Diesel",
+				"value": "Yes"
+			}]
+		}, {
+			"offeringSystemID": "3430",
+			"offeringCode": "227",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "4510",
+			"offeringCode": "251",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "2593",
+				"description": "Brand",
+				"value": "CAT Scale"
+			}, {
+				"offeringAttributeSystemID": "54588",
+				"description": "Serial Number",
+				"value": "22"
+			}]
+		}, {
+			"offeringSystemID": "5271",
+			"offeringCode": "253",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "4780",
+				"description": "Total Quantity",
+				"value": "9"
+			}, {
+				"offeringAttributeSystemID": "110058",
+				"description": "Active Shower Quantity",
+				"value": "9"
+			}]
+		}, {
+			"offeringSystemID": "5948",
+			"offeringCode": "266",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "5847",
+				"description": "Type",
+				"value": "Enhanced Experience"
+			}]
+		}, {
+			"offeringSystemID": "7282",
+			"offeringCode": "242",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7283",
+			"offeringCode": "244",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7284",
+			"offeringCode": "265",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7285",
+			"offeringCode": "238",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7286",
+			"offeringCode": "211",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7287",
+			"offeringCode": "246",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7288",
+			"offeringCode": "209",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7289",
+			"offeringCode": "237",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7290",
+			"offeringCode": "214",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7291",
+			"offeringCode": "262",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7292",
+			"offeringCode": "213",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "7293",
+			"offeringCode": "205",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringSystemID": "11410",
+			"offeringCode": "216",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "15658",
+				"description": "Pizza",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "56232",
+				"description": "Brand",
+				"value": "Non PJFresh"
+			}]
+		}, {
+			"offeringSystemID": "13484",
+			"offeringCode": "225",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "17162",
+				"description": "Game Room",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "17701",
+				"description": "Instant Ticket Vending Machine",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "18276",
+				"description": "Lottery",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "18887",
+				"description": "Lotto",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "23887",
+				"description": "Crane",
+				"value": "1"
+			}]
+		}, {
+			"offeringSystemID": "14538",
+			"offeringCode": "234",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "19359",
+				"description": "Fed Ex Box",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "19834",
+				"description": "UPS",
+				"value": "Yes"
+			}]
+		}, {
+			"offeringSystemID": "14859",
+			"offeringCode": "236",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "19932",
+				"description": "Medical Clinic",
+				"value": "Yes"
+			}]
+		}, {
+			"offeringSystemID": "16763",
+			"offeringCode": "240",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "20607",
+				"description": "Blue Rack",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "21138",
+				"description": "Motor Media",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "21575",
+				"description": "Pocket Media",
+				"value": "Yes"
+			}, {
+				"offeringAttributeSystemID": "22100",
+				"description": "Truck Paper",
+				"value": "Yes"
+			}]
+		}, {
+			"offeringSystemID": "17418",
+			"offeringCode": "204",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "22678",
+				"description": "Quantity",
+				"value": "1"
+			}]
+		}, {
+			"offeringSystemID": "18121",
+			"offeringCode": "206",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "23381",
+				"description": "Quantity",
+				"value": "2"
+			}]
+		}, {
+			"offeringSystemID": "18220",
+			"offeringCode": "208",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "23485",
+				"description": "Car Wash",
+				"value": "Pilot Owned Car Wash"
+			}]
+		}, {
+			"offeringSystemID": "40638",
+			"offeringCode": "241",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "44859",
+				"description": "Active Reserve Truck Spaces",
+				"value": "12"
+			}, {
+				"offeringAttributeSystemID": "44861",
+				"description": "Total Diesel Fueling Lane Spots",
+				"value": "27"
+			}, {
+				"offeringAttributeSystemID": "44862",
+				"description": "Total Diesel Fueling Pump Spots",
+				"value": "9"
+			}, {
+				"offeringAttributeSystemID": "44863",
+				"description": "Total Diesel Post-Fueling Spots",
+				"value": "9"
+			}, {
+				"offeringAttributeSystemID": "44864",
+				"description": "Total Diesel Pre-Fueling Spots",
+				"value": "9"
+			}, {
+				"offeringAttributeSystemID": "44865",
+				"description": "Active Non-Car Parking",
+				"value": "107"
+			}, {
+				"offeringAttributeSystemID": "44866",
+				"description": "Active Truck & Bobtail Parking",
+				"value": "107"
+			}, {
+				"offeringAttributeSystemID": "60483",
+				"description": "Active Bobtail Parking",
+				"value": "0"
+			}, {
+				"offeringAttributeSystemID": "60484",
+				"description": "Total Gas Fueling Pump Spots",
+				"value": "0"
+			}, {
+				"offeringAttributeSystemID": "60485",
+				"description": "Total Propane Fueling Pump Spots",
+				"value": "0"
+			}, {
+				"offeringAttributeSystemID": "60486",
+				"description": "Total RV Fueling Pump Spots",
+				"value": "0"
+			}, {
+				"offeringAttributeSystemID": "60487",
+				"description": "Active Handicap Non-Car Parking",
+				"value": "0"
+			}, {
+				"offeringAttributeSystemID": "60488",
+				"description": "Active RV Parking Spots",
+				"value": "0"
+			}, {
+				"offeringAttributeSystemID": "67148",
+				"description": "Active Reserve RV Spaces",
+				"value": "0"
+			}, {
+				"offeringAttributeSystemID": "67149",
+				"description": "Active Non-reserve Truck & Bobtail Parking Spaces",
+				"value": "95"
+			}, {
+				"offeringAttributeSystemID": "67150",
+				"description": "Active Sensors on Site",
+				"value": "134"
+			}, {
+				"offeringAttributeSystemID": "67151",
+				"description": "Total Sensors on Site",
+				"value": "138"
+			}, {
+				"offeringAttributeSystemID": "67152",
+				"description": "Non-active spaces on sites",
+				"value": "4"
+			}, {
+				"offeringAttributeSystemID": "67153",
+				"description": "Active Total Truck Parking Spaces",
+				"value": "107"
+			}, {
+				"offeringAttributeSystemID": "67154",
+				"description": "Active Reserve Bobtail Spaces",
+				"value": "0"
+			}, {
+				"offeringAttributeSystemID": "67155",
+				"description": "Active Diesel Fueling Pump Spots",
+				"value": "9"
+			}]
+		}, {
+			"offeringSystemID": "41098",
+			"offeringCode": "243",
+			"offeringAttributes": [
+
+			]
+		}, {
+			"offeringCode": "296",
+			"offeringAttributes": [{
+				 "description": "Quantity",
+                                "value": "2"
+			}]
+		}, {
+			"offeringCode": "297",
+			"offeringAttributes": [{
+				 "description": "Quantity",
+                                "value": "2"
+			}]
+		}, {
+			"offeringCode": "298",
+			"offeringAttributes": [{
+			 "description": "Quantity",
+                                "value": "2"
+			}]
+		}, {
+			"offeringCode": "241",
+			"offeringAttributes": [{
+				 "description": "Quantity",
+                                "value": "2"
+			}]
+		}],
+		"hoursOfOperation": [{
+			"dayOfTheWeek": "Sunday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Monday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Tuesday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Wednesday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Thursday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Friday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Saturday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}]
+	}, {
+		"lineOfBusinessSystemId": "109691",
+		"lineOfBusinessCode": "109",
+		"brandCode": "116",
+		"isDealer": false,
+		"isLicensee": false,
+		"isPrimaryLineOfBusiness": false,
+		"status": "Open",
+		"openDate": "1996-07-04",
+		"temporaryCloseDate": null,
+		"reopenDate": null,
+		"closeDate": null,
+		"address1": "7210 Strawberry Plains Pike",
+		"address2": null,
+		"city": "Knoxville",
+		"state": "TN",
+		"postalCode": "37914",
+		"country": "United States",
+		"latitude": null,
+		"longitude": null,
+		"phone": "(865) 544-1123",
+		"fax": "(865) 544-1138",
+		"is24Hours": true,
+		"offerings": [{
+			"offeringSystemID": "45085",
+			"offeringCode": "280",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "109084",
+				"description": "Dedicated Fountain",
+				"value": "With Dr.Pepper"
+			}]
+		}, {
+			"offeringSystemID": "45678",
+			"offeringCode": "286",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "110468",
+				"description": "Has Breakfast Offering?",
+				"value": "Yes"
+			}]
+		}],
+		"hoursOfOperation": [{
+			"dayOfTheWeek": "Sunday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Monday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Tuesday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Wednesday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Thursday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Friday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Saturday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}]
+	}, {
+		"lineOfBusinessSystemId": "110942",
+		"lineOfBusinessCode": "131",
+		"brandCode": "288",
+		"isDealer": false,
+		"isLicensee": false,
+		"isPrimaryLineOfBusiness": false,
+		"status": "Open",
+		"openDate": "2017-02-13",
+		"temporaryCloseDate": null,
+		"reopenDate": null,
+		"closeDate": null,
+		"address1": "7210 Strawberry Plains Pike",
+		"address2": null,
+		"city": "Knoxville",
+		"state": "TN",
+		"postalCode": "37914",
+		"country": "United States",
+		"latitude": null,
+		"longitude": null,
+		"phone": "(888) 997-1034",
+		"fax": null,
+		"is24Hours": true,
+		"offerings": [{
+			"offeringCode": "208"
+		}, {
+			"offeringCode": "220"
+		}, {
+			"offeringCode": "255"
+		}, {
+			"offeringCode": "257"
+		}],
+		"hoursOfOperation": [{
+			"dayOfTheWeek": "Sunday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Monday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Tuesday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Wednesday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Thursday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Friday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}, {
+			"dayOfTheWeek": "Saturday",
+			"from": "12:00 AM",
+			"to": "12:00 AM"
+		}]
+	}, {
+		"lineOfBusinessSystemId": "111280",
+		"lineOfBusinessCode": "133",
+		"brandCode": "121",
+		"isDealer": false,
+		"isLicensee": false,
+		"isPrimaryLineOfBusiness": false,
+		"status": "Open",
+		"openDate": "2011-04-12",
+		"temporaryCloseDate": null,
+		"reopenDate": null,
+		"closeDate": null,
+		"address1": "7210 Strawberry Plains Pike",
+		"address2": null,
+		"city": "Knoxville",
+		"state": "TN",
+		"postalCode": "37914",
+		"country": "United States",
+		"latitude": null,
+		"longitude": null,
+		"phone": "(865) 544-1067",
+		"fax": "(865) 544-1138",
+		"is24Hours": false,
+		"offerings": [{
+			"offeringSystemID": "46121",
+			"offeringCode": "285",
+			"offeringAttributes": [{
+				"offeringAttributeSystemID": "111021",
+				"description": "Cinnabon Style",
+				"value": "Kiosk"
+			}]
+		}],
+		"hoursOfOperation": [{
+			"dayOfTheWeek": "Sunday",
+			"from": "06:00 AM",
+			"to": "06:00 PM"
+		}, {
+			"dayOfTheWeek": "Monday",
+			"from": "06:00 AM",
+			"to": "06:00 PM"
+		}, {
+			"dayOfTheWeek": "Tuesday",
+			"from": "06:00 AM",
+			"to": "06:00 PM"
+		}, {
+			"dayOfTheWeek": "Wednesday",
+			"from": "06:00 AM",
+			"to": "06:00 PM"
+		}, {
+			"dayOfTheWeek": "Thursday",
+			"from": "06:00 AM",
+			"to": "06:00 PM"
+		}, {
+			"dayOfTheWeek": "Friday",
+			"from": "06:00 AM",
+			"to": "06:00 PM"
+		}, {
+			"dayOfTheWeek": "Saturday",
+			"from": "06:00 AM",
+			"to": "06:00 PM"
+		}]
+	}],
+	"geoCodes": [{
+		"sequence": "0",
+		"latitude": "33.854502",
+		"longitude": "-84.3584"
+	}, {
+		"sequence": "1",
+		"latitude": "33.854864",
+		"longitude": "-84.357883"
+	}, {
+		"sequence": "2",
+		"latitude": "33.854873",
+		"longitude": "-84.358854"
+	}, {
+		"sequence": "3",
+		"latitude": "33.854068",
+		"longitude": "-84.3588343"
+	}, {
+		"sequence": "4",
+		"latitude": "33.854117",
+		"longitude": "-84.357957"
+	}],
+	"fuelCodes": [
+		"7991691004",
+		"7991691256",
+		"7991691003",
+		"7991691011",
+		"7991608272",
+		"7991691562",
+		"185700451",
+		"7991691539",
+		"7991691196",
+		"7991691006",
+		"7991691007",
+		"7991691563",
+		"7991691008"]
+}
